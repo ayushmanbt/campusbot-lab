@@ -6,14 +6,24 @@ application and its supplied test data.
 
 ## Launch in Google Colab
 
-Open either notebook in Colab:
+Create a fresh Colab notebook with this link:
+
+[Open a new Google Colab notebook](https://colab.research.google.com/#create=true)
+
+Then paste this into the first code cell and run it:
+
+```python
+!git clone https://github.com/ayushmanbt/campusbot-lab.git /content/campusbot-lab
+%cd /content/campusbot-lab/lab
+```
+
+To open the guided lab notebooks instead:
 
 - [Session 1: Perform the prompt injection attack](https://colab.research.google.com/github/ayushmanbt/campusbot-lab/blob/main/lab/session1_attack.ipynb)
 - [Session 2: Stop the prompt injection](https://colab.research.google.com/github/ayushmanbt/campusbot-lab/blob/main/lab/session2_defense.ipynb)
 
-In Colab, run the cells from top to bottom. The first setup cell clones this
-repository, changes into `lab`, and imports the local modules. No API key,
-internet access, or external LLM is required.
+The guided notebooks include this setup automatically. No API key or external
+LLM is required.
 
 ## Run locally
 
