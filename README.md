@@ -6,19 +6,11 @@ application and its supplied test data.
 
 ## Launch in Google Colab
 
-Create a fresh Colab notebook with this link:
+For session 1 notebook use this link - 
 
-[Open a new Google Colab notebook](https://colab.research.google.com/#create=true)
+<a href="https://colab.research.google.com/drive/1MfcGhK9BJ7eTPb_QiB0tKdXLn3eNRE2x?copy=true" target="_blank">Session 1 Notebook</a>
 
-Then paste this into the first code cell and run it:
-
-```python
-!git clone https://github.com/ayushmanbt/campusbot-lab.git /content/campusbot-lab
-%cd /content/campusbot-lab/
-```
-
-The guided notebooks include this setup automatically. No API key or external
-LLM is required.
+<a href="https://colab.research.google.com/drive/1NMT_uWVi3QTe_FdyKOeuiaFno6NSnE-F?copy=true" target="_blank">Session 2 Notebook</a>
 
 ## Run locally
 
