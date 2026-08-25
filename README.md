@@ -14,13 +14,8 @@ Then paste this into the first code cell and run it:
 
 ```python
 !git clone https://github.com/ayushmanbt/campusbot-lab.git /content/campusbot-lab
-%cd /content/campusbot-lab/lab
+%cd /content/campusbot-lab/
 ```
-
-To open the guided lab notebooks instead:
-
-- [Session 1: Perform the prompt injection attack](https://colab.research.google.com/github/ayushmanbt/campusbot-lab/blob/main/lab/session1_attack.ipynb)
-- [Session 2: Stop the prompt injection](https://colab.research.google.com/github/ayushmanbt/campusbot-lab/blob/main/lab/session2_defense.ipynb)
 
 The guided notebooks include this setup automatically. No API key or external
 LLM is required.
