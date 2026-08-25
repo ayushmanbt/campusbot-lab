@@ -6,8 +6,6 @@ application and its supplied test data.
 
 ## Launch in Google Colab
 
-For session 1 notebook use this link - 
-
 <a href="https://colab.research.google.com/drive/1MfcGhK9BJ7eTPb_QiB0tKdXLn3eNRE2x?copy=true" target="_blank">Session 1 Notebook</a>
 
 <a href="https://colab.research.google.com/drive/1NMT_uWVi3QTe_FdyKOeuiaFno6NSnE-F?copy=true" target="_blank">Session 2 Notebook</a>
